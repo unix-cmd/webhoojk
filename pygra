@@ -1,1 +1,1 @@
-python BlankOBFv2.py --input desktop/unix.py --output desktop/unix_obf.py
+python BlankOBFv2.py --input C:/Users/Emme/Desktop/unix.py --output C:/Users/Emme/Desktop/unix_obf.py
